@@ -67,6 +67,16 @@
       "cricut cat svg",
       "peeking cat clipart",
       "cute cat vector"
+      [
+  {
+    "title": "Dog profile silhouette",
+    "category": "Animals",
+    "image": "https://raw.githubusercontent.com/faziartify/freesvg-generator/main/pins/dog-profile-silhouette.jpg",
+    "svg": "https://github.com/faziartify/freesvg-generator/blob/main/output/dog-profile-silhouette.svg",
+    "png": "https://github.com/faziartify/freesvg-generator/blob/main/output/dog-profile-silhouette.png",
+    "keywords": ["dog silhouette svg", "dog profile clipart", "cricut dog vector"]
+  }
+]
     ]
   }
 ]
